@@ -1,1 +1,1 @@
-# medical-data-visualizer
+# MedicaldataVisualizer
